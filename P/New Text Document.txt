@@ -1,0 +1,58 @@
+	Lahore	
+	Faisalabad	
+	Rawalpindi	
+	Gujranwala	
+	Multan	
+	Bahawalpur
+	Sargodha	
+	Sialkot	
+	Sheikhupura	
+	Rahim Yar Khan	
+	Jhang	
+	Dera Ghazi Khan	
+	Gujrat	
+	Sahiwal	
+	Wah Cantonment	
+	Kasur
+	Okara	
+	Chiniot	
+	Kamoke	
+	Hafizabad	
+	Sadiqabad	
+	Burewala
+	Khanewal	
+	Muzaffargarh	
+	Mandi Bahauddin
+	Jhelum	
+	Khanpur	
+	Pakpattan	
+	Daska	
+	Gojra	
+	Muridke	
+	Bahawalnagar
+	Samundri	
+	Jaranwala	
+	Chishtian
+	Attock
+	Vehari	
+	Kot Abdul Malik	
+	Ferozewala
+	Chakwal	
+	Gujranwala Cantonment	
+	Kamalia	
+	Ahmedpur East	
+	Kot Addu	
+	Wazirabad	
+	Layyah
+	Taxila	
+	Khushab	
+	Mianwali	
+	Lodhran	
+	Hasilpur	
+	Bhakkar	
+	Arif Wala	
+	Sambrial	
+	Jatoi	
+	Haroonabad
+	Narowal	
+	Bhalwal

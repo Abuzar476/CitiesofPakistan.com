@@ -1,0 +1,13 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(BP.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-position: 5px top;
+    font-family: sans-serif;
+    font-size: larger;
+    text-align: center;
+    list-style: none;
+}

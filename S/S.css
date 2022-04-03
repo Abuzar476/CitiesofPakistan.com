@@ -1,0 +1,14 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(s.png);
+    background-position-x: center;
+    background-size: cover;
+    font-family: sans-serif;
+    font-size: larger;
+    text-align: center;
+    list-style: none;
+    -webkit-text-size-adjust: 5px;
+    -webkit-text-fill-color: white;
+}
